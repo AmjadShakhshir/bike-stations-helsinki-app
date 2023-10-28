@@ -1,0 +1,19 @@
+{
+  "name": "bik-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmjadShakhshir/bike-stations-helsinki-app.git"
+  },
+  "author": "Amjad Shakhshir",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AmjadShakhshir/bike-stations-helsinki-app/issues"
+  },
+  "homepage": "https://github.com/AmjadShakhshir/bike-stations-helsinki-app#readme"
+}
